@@ -10,10 +10,10 @@ DarkGrey,69,69,69
 HighGrey,105,105,105
 LowGrey,153,153,153
 LightGrey,207,207,207
-DarkViolet,90,2,110
-HighViolet,130,4,200
-LowViolet,160,55,251
-LightViolet,201,155,253
+DarkPurple,90,2,110
+HighPurple,130,4,200
+LowPurple,160,55,251
+LightPurple,201,155,253
 DarkYellow,105,102,2
 HighYellow,205,198,4
 LowYellow,251,254,50
