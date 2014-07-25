@@ -1,5 +1,6 @@
 Shade,Min,Max
-Dark,0,85
+Black,0,40
+Dark,40,85
 High,85,130
 Low,130,169
 Light,169,200
