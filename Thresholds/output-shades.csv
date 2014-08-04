@@ -39,7 +39,7 @@ HighOrange,205,78,4
 LowOrange,251,127,55
 LightOrange,253,194,160
 DarkBrownPink,149,71,67
-HighBrownPink,215,22,4
+HighBrownPink,191,74,64
 LowBrownPink,252,104,90
 LightBrownPink,255,160,143
 DarkBrownOrange,200,73,9
@@ -58,6 +58,10 @@ DarkBrownRed,133,45,45
 HighBrownRed,165,60,55
 LowBrownRed,197,50,38
 LightBrownRed,215,80,66
+DarkOrangeRed,235,38,20
+HighOrangeRed,246,29,9
+LowOrangeRed,255,49,31
+LightOrangeRed,255,59,41
 DarkGreyBrownPink,203,144,139
 HighGreyBrownPink,203,144,139
 LowGreyBrownPink,203,144,139
