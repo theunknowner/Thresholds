@@ -1,6 +1,12 @@
 Shade,Min,Max
-Dark,0,85
-High,85,130
-Low,130,169
-Light,169,200
+Dark1,0,45
+Dark2,45,85
+High1,85,105
+High2,105,130
+Low1,130,149
+Low2,149,159
+Low3,159,169
+Light1,169,175
+Light2,175,180
+Light3,180,200
 White,200,255
