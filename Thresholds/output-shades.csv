@@ -9,7 +9,7 @@ Dark,Grey,20,20,20
 Dark,BrownRed,38,13,13
 Dark,PinkRed,32,15,14
 Dark,BrownPink,32,15,14
-Dark,Red,67,2,2
+Dark,Red,67,0,0
 Dark,GreyBlue,15,19,46
 Dark,GreyBrown,31,18,10
 Dark,Orange,40,15,1
@@ -28,7 +28,7 @@ High,Pink,220,4,98
 High,Purple,164,5,250
 High,Blue,50,63,251
 High,GreyPurple,108,50,159
-High,BrownRed,145,53,48
+High,BrownRed,150,36,36
 High,OrangeRed,221,26,8
 High,GreyPink,126,58,87
 High,GreyViolet,126,58,87
@@ -67,11 +67,11 @@ Light,Orange,252,149,90
 Light,GreyGreen,122,209,113
 Light,Green,66,251,45
 Light,Yellow,195,189,4
-Low,BrownRed,222,95,84
+Low,BrownRed,228,47,48
 Low,Blue,105,122,252
 Low,Purple,174,85,252
 Low,OrangeRed,255,82,61
-Low,Red,251,80,89
+Low,Red,251,80,80
 Low,GreyBlue,113,123,204
 Low,Violet,251,65,146
 Low,Pink,251,65,146
