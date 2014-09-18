@@ -1,5 +1,5 @@
 Dark,Blue,3,14,99
-Dark,Purple,45,1,55
+Dark,Purple,36,1,55
 Dark,Violet,49,7,42
 Dark,PinkViolet,49,8,28
 Dark,Pink,55,1,24
@@ -24,10 +24,10 @@ Dark,OrangeRed,56,9,5
 Dark,OrangePink,43,17,8
 High,Red,250,5,5
 High,GreyBlue,57,71,172
-High,Violet,196,28,168
-High,PinkViolet,206,34,116
+High,Violet,165,24,136
+High,PinkViolet,171,28,96
 High,Pink,220,4,98
-High,Purple,164,5,250
+High,Purple,138,4,210
 High,Blue,50,63,251
 High,GreyPurple,108,50,159
 High,BrownRed,150,36,36
