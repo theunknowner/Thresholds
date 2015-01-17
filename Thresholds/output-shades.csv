@@ -14,6 +14,7 @@ Dark,GreyPink,39,17,23
 Dark,GreyPinkViolet,31,14,22
 Dark,GreyPurple,25,10,61
 Dark,GreyViolet,35,16,24
+Dark,GreyYellow,26,27,14
 Dark,Orange,40,15,1
 Dark,OrangePink,43,17,8
 Dark,OrangeRed,56,9,5
@@ -40,6 +41,7 @@ High,GreyPink,126,58,75
 High,GreyPinkViolet,126,58,87
 High,GreyPurple,108,50,159
 High,GreyViolet,126,58,87
+High,GreyYellow,98,102,51
 High,Orange,155,59,3
 High,OrangePink,143,55,25
 High,OrangeRed,221,26,8
@@ -66,6 +68,7 @@ Light,GreyPink,211,151,166
 Light,GreyPinkViolet,211,151,182
 Light,GreyPurple,189,150,223
 Light,GreyViolet,218,144,176
+Light,GreyYellow,206,209,113
 Light,Orange,252,149,90
 Light,OrangePink,252,142,105
 Light,OrangeRed,255,138,128
@@ -92,6 +95,7 @@ Low,GreyPink,184,101,122
 Low,GreyPinkViolet,184,101,137
 Low,GreyPurple,156,107,199
 Low,GreyViolet,184,101,137
+Low,GreyYellow,155,159,80
 Low,Orange,250,95,5
 Low,OrangePink,232,94,48
 Low,OrangeRed,255,82,61
