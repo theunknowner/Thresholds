@@ -1,0 +1,8 @@
+Strip,,
+Excavated,,
+Default,Blotch,
+Blotch,Default,Incomp_Disc
+Incomp_Disc,Blotch,Comp_Disc
+Comp_Disc,Incomp_Disc,
+Incomp_Donut,Comp_Donut,
+Comp_Donut,Incomp_Donut,Excavated
