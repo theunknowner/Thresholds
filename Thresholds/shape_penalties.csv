@@ -1,9 +1,9 @@
-,Strip,Excavated,Default,Blotch,Incomp_Disc,Comp_Disc,Incomp_Donut,Comp_Donut
+,Strip,Default,Blotch,Incomp-Disc,Comp-Disc,Incomp-Donut,Comp-Donut,Excavated
 Strip,0,0,0,0,0,0,0,0
-Excavated,0,0,0,0,0,0,-0.5,0
-Default,0,0,0,-0.5,0,0,0,0
-Blotch,0,0,-0.5,0,-0.5,0,0,0
-Incomp_Disc,0,0,0,-0.5,0,-0.5,0,0
-Comp_Disc,0,0,0,0,-0.5,0,0,0
-Incomp_Donut,0,0,0,0,0,0,0,-0.5
-Comp_Donut,0,0,0,0,0,0,-0.5,0
+Default,0,0,-0.5,0,0,0,0,0
+Blotch,0,-0.5,0,-0.5,0,0,0,0
+Incomp-Disc,0,0,-0.5,0,-0.5,0,0,0
+Comp-Disc,0,0,0,-0.5,0,0,0,0
+Incomp-Donut,0,0,0,0,0,0,-0.5,0
+Comp-Donut,0,0,0,0,0,-0.5,0,0
+Excavated,0,0,0,0,0,-0.5,0,0
