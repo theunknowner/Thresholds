@@ -1,9 +1,9 @@
 ,Strip,Default,Blotch,Incomp-Disc,Comp-Disc,Incomp-Donut,Comp-Donut,Excavated
 Strip,0,0,0,0,0,0,0,0
-Default,0,0,-0.5,0,0,0,0,0
+Default,0,0,-0.5,0,0,0,0,-0.5
 Blotch,0,-0.5,0,-0.5,0,0,0,0
 Incomp-Disc,0,0,-0.5,0,-0.5,0,0,0
 Comp-Disc,0,0,0,-0.5,0,0,0,0
 Incomp-Donut,0,0,0,0,0,0,-0.5,0
-Comp-Donut,0,0,0,0,0,-0.5,0,0
-Excavated,0,0,0,0,0,-0.5,0,0
+Comp-Donut,0,0,0,0,0,-0.5,0,-2
+Excavated,0,-0.5,0,0,0,0,-2,0
