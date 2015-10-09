@@ -1,8 +1,8 @@
+Comp-Disc,Incomp-Disc,
+Incomp-Disc,Blotch,Comp-Disc
+Comp-Donut,Incomp-Donut,Excavated
+Incomp-Donut,Comp-Donut,Strip
+Blotch,Default,Incomp-Disc
+Excavated,Comp-Donut,Default
 Strip,Incomp-Donut,
 Default,Blotch,Excavated
-Blotch,Default,Incomp-Disc
-Incomp-Disc,Blotch,Comp-Disc
-Comp-Disc,Incomp-Disc,
-Incomp-Donut,Comp-Donut,Strip
-Comp-Donut,Incomp-Donut,Excavated
-Excavated,Comp-Donut,Default
