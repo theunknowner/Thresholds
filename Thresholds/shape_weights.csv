@@ -1,0 +1,11 @@
+Shapes,TR1,TR2
+Comp-Disc,1,1
+Incomp-Disc,1,1
+Comp-Donut,1,1
+Incomp-Donut,1,1
+Blotch,0.5,0.7071067812
+Excavated,0.5,0.4082482905
+Strip,0.5,0.7071067812
+Fused-Donut,1,1
+Default,0.25,0.25
+Unknown,1,1
